@@ -1,0 +1,2 @@
+master (para manter o que estár no arquivo master)
+Eun passei por aqui (como se foisse uma nova funcionalidade)
